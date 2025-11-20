@@ -1,0 +1,22 @@
+{
+    "calibration_duration": 5.0,
+    "sampling_frequency": 100,
+    "countdown_duration": 2.0,
+    "num_channels": 3,
+    "trials_per_viscosity": 5,
+    "bridge_gain": 128,
+    "output_directory": "C:\\Users\\Public",
+    "audio": {
+        "frequency": 800,
+        "enabled": true
+    },
+    "plot": {
+        "initial_scale": 0.0001,
+        "scale_padding": 1.2
+    },
+    "viscosity_labels": [
+        "A",
+        "B",
+        "C"
+    ]
+}
